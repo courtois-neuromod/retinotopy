@@ -1,0 +1,1 @@
+81c2325d-07fc-44ce-a95d-13cc56d77084 autoenable=true bucket=cneuromod.retinotopy.mri chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.retinotopy.mri port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1626973535.713785074s
