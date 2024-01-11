@@ -3,7 +3,3 @@
 	url = git@github.com:courtois-neuromod/retino.stimuli.git
 	datalad-id = 52140b46-63c8-45a7-a03f-2f2cab0db23f
 	datalad-url = git@github.com:courtois-neuromod/retino.stimuli.git
-[submodule "sourcedata"]
-	path = sourcedata
-	url = ./sourcedata
-	datalad-id = 6551a560-9aad-4ed7-83ef-7b03421d6244
