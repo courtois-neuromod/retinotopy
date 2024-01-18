@@ -1,5 +1,8 @@
 <!-- vim: syntax=Markdown -->
 # Courtois-NeuroMod: [xxxx subdataset](https://github.com/courtois-neuromod/xxxxx)
+![bids-validator](https://github.com/courtois-neuromod/retinotopy/actions/workflows/bids-validator.yml/badge.svg)
+![deploy test](https://github.com/courtois-neuromod/retinotopy/actions/workflows/deploy.yml/badge.svg)
+![deploy latest git-annex branch](https://github.com/courtois-neuromod/retinotopy/actions/workflows/deploy.yml/badge.svg?branch=git-annex)
 
 The [Courtois project on Neural Modelling (Courtois NeuroMod)](https://www.cneuromod.ca/) aims at training artificial neural networks using extensive experimental data on individual human brain activity and behaviour.
 
