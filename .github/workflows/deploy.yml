@@ -1,9 +1,9 @@
 name: Test deploy
 on:
   push:
-    branches: [ main, git-annex, tests]
+    branches: [ main, git-annex, tests, dev]
   pull_request:
-    branches: [ main ]
+    branches: [ main, dev ]
   workflow_dispatch:
 jobs:
   deploy_linux:
