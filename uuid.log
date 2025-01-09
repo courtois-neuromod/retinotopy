@@ -8,6 +8,7 @@
 74ce4103-cd9f-4198-a7f6-e8c8992c409e s3unf.cneuromod.retinotopy.mri.sensitive timestamp=1626973545.907149956s
 7c69b1c0-3ef9-4ac1-8c12-d651585d06e2 conp-ria-storage timestamp=1705438012s
 81c2325d-07fc-44ce-a95d-13cc56d77084 s3unf.cneuromod.retinotopy.mri timestamp=1626973535.645315187s
+93b6424e-3b26-4288-97ea-0a27ddc31e77 basile@blob-XPS-9320:~/data/tests/retinotopy timestamp=1736458539s
 a982bde4-e4fe-43e3-b726-e16e91ede741 ria-beluga-storage timestamp=1627401579s
 be2d3c5f-fe94-48e5-9bfa-a202cee1a3b6 mstlaure@beluga3.int.ets1.calculquebec.ca:/lustre04/scratch/mstlaure/tests/cneuromod-things/retinotopy/fmriprep/sourcedata/retinotopy timestamp=1631321213s
 d1cc6842-1648-426c-937f-f4d62c4254d1 bpinsard@elm.criugm.qc.ca:/scratch/tmp/cneuromod.retinotopy.raw timestamp=1710942641.059368199s
